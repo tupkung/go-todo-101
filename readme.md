@@ -10,3 +10,4 @@ Check list
 [] Show the delete list
 [] Restore the delete item to the task
 [] Remove permanently from the delete list
+[] Collect the location (lat-lon) when adding the new task.
